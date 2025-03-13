@@ -105,3 +105,4 @@ console.log(averagePrice(freelancers));
 init();
 renderFreelancers();
 
+// Ari is the 🐐🙌
